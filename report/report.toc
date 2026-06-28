@@ -1,0 +1,11 @@
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{Abstract}{i}{chapter*.2}%
+\contentsline {chapter}{Abstract in lingua italiana}{iii}{chapter*.4}%
+\contentsline {chapter}{Contents\markboth {\MakeUppercase []{Contents}}{\MakeUppercase []{Contents}}}{v}{chapter*.6}%
+\vspace {2em}
+\vspace {2em}
+\contentsline {chapter}{Bibliography\markboth {\MakeUppercase []{Bibliography}}{\MakeUppercase []{Bibliography}}}{1}{chapter*.8}%
+\vspace {2em}
+\contentsline {chapter}{List of Figures}{5}{chapter*.10}%
+\contentsline {chapter}{List of Tables}{7}{chapter*.12}%
+\contentsline {chapter}{Acknowledgements}{9}{chapter*.14}%
