@@ -1,25 +1,23 @@
 # Fdb version 4
-["bibtex report"] 1782569901.3038 "report.aux" "report.bbl" "report" 1782569912.69943 0
+["bibtex report"] 1782718647.67129 "report.aux" "report.bbl" "report" 1782718653.76768 0
   "./Thesis_bibliography.bib" 1782569350 113 154920b3dbca3caaa7ee7aa5eecc08f7 ""
   "C:/Users/valer/AppData/Local/Programs/MiKTeX/bibtex/bst/natbib/abbrvnat.bst" 1284455456 26532 66bed5cc59495faaa3f9ae9af9fa5e42 ""
-  "report.aux" 1782569909 1882 df1acd938d8bbeaf932ed0287d88fd71 "pdflatex"
+  "report.aux" 1782718652 1903 3d07f6f39ca5d1b31ef2ce113b9a537d "pdflatex"
   (generated)
   "report.bbl"
   "report.blg"
   (rewritten before read)
-["pdflatex"] 1782569903.81599 "c:/Users/valer/Desktop/UNIVERSITA/PoliMi/Numerical analysis for machine learning/Project/report/report.tex" "report.pdf" "report" 1782569912.7002 0
+["pdflatex"] 1782718650.79856 "c:/Users/valer/Desktop/UNIVERSITA/PoliMi/Numerical analysis for machine learning/Project/report/report.tex" "report.pdf" "report" 1782718653.76817 0
   "C:/Users/valer/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1782569562 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/valer/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi1244/ecbx1200.pk" 1782569590 74568 5287d5bbd427097f08f6144778b5e261 ""
   "C:/Users/valer/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk" 1782569576 31952 d1c7ab451b061dcc58ba7780f6d4174f ""
   "C:/Users/valer/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1200.pk" 1782569587 28440 af924480e209e3a86c98614f1e0c1349 ""
-  "C:/Users/valer/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecti1200.pk" 1782569567 39120 03000cb55136aff55e3855b1ac12b3c4 ""
   "C:/Users/valer/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi720/ecbx1200.pk" 1782569582 40164 42dfbf9db234a81ee4058dc90db261cc ""
   "C:/Users/valer/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi720/ecxc1200.pk" 1782569596 42380 1843b57c145c9b0e96b5adec9cf216be ""
   "C:/Users/valer/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1760460599 13321623 a5cb21cd68b214c7ee667b2c264806c2 ""
   "C:/Users/valer/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecbx1200.tfm" 993061958 3200 b8d69bc738e5ef3e08cefeef3109ff56 ""
   "C:/Users/valer/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecrm1200.tfm" 993062126 3152 4850ff0163852b7fab34bd55e1197f28 ""
   "C:/Users/valer/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecrm1728.tfm" 993062128 3168 11457c8185ce67fb79662ba8b03d6db1 ""
-  "C:/Users/valer/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecti1200.tfm" 993062324 2832 28bbd97ca29f46e76c87a158a9915203 ""
   "C:/Users/valer/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecxc1200.tfm" 993062448 2856 56e086eeea88f7ac50ae4cba2c489b0e ""
   "C:/Users/valer/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmbsy7.tfm" 1233951848 1120 7f9f170e8aa57527ad6c49feafd45d54 ""
   "C:/Users/valer/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -259,15 +257,15 @@
   "Images/./raggiera_polimi.eps" 1782569350 1813066 68b21695bbcbb6d7e09839c06406f8f3 ""
   "Images/02_ING_IND_INFORMAZIONE_COL_POSITIVO.eps" 1782569350 1016894 50c9d95dbacdb6a7531ebeec13361098 ""
   "Thesis_Acronyms.tex" 1782569350 51 8b0381c6b78b88573b784ae253a5f5c1 ""
-  "c:/Users/valer/Desktop/UNIVERSITA/PoliMi/Numerical analysis for machine learning/Project/report/report.tex" 1782569832 9228 c42b9e696027cbe4b37333d88e90c653 ""
+  "c:/Users/valer/Desktop/UNIVERSITA/PoliMi/Numerical analysis for machine learning/Project/report/report.tex" 1782718650 9114 3793f0ad0748105f5a1c4017391f895d ""
   "report.acr" 0 -1 0 ""
-  "report.aux" 1782569909 1882 df1acd938d8bbeaf932ed0287d88fd71 "pdflatex"
-  "report.bbl" 1782569901 283 de5ffaf5b665b622658d80bed97ba2a5 "bibtex report"
-  "report.lof" 1782569909 30 283c90c47f0e16887e96cec4ba110f76 "pdflatex"
-  "report.lot" 1782569909 30 283c90c47f0e16887e96cec4ba110f76 "pdflatex"
-  "report.out" 1782569909 832 fac3e892ccb0c889cd6b3156005e4a2c "pdflatex"
-  "report.tex" 1782569832 9228 c42b9e696027cbe4b37333d88e90c653 ""
-  "report.toc" 1782569909 615 894f56ff7ce869858cdd582ce8a7e6a3 "pdflatex"
+  "report.aux" 1782718652 1903 3d07f6f39ca5d1b31ef2ce113b9a537d "pdflatex"
+  "report.bbl" 1782718647 283 de5ffaf5b665b622658d80bed97ba2a5 "bibtex report"
+  "report.lof" 1782718652 30 283c90c47f0e16887e96cec4ba110f76 "pdflatex"
+  "report.lot" 1782718652 30 283c90c47f0e16887e96cec4ba110f76 "pdflatex"
+  "report.out" 1782718652 832 fac3e892ccb0c889cd6b3156005e4a2c "pdflatex"
+  "report.tex" 1782718650 9114 3793f0ad0748105f5a1c4017391f895d ""
+  "report.toc" 1782718652 615 894f56ff7ce869858cdd582ce8a7e6a3 "pdflatex"
   (generated)
   "report.acn"
   "report.aux"

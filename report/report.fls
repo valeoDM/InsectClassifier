@@ -504,7 +504,15 @@ INPUT .\Images\.\raggiera_polimi-eps-converted-to.pdf
 INPUT .\Images\.\raggiera_polimi-eps-converted-to.pdf
 OUTPUT report.ist
 INPUT C:\Users\valer\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT C:\Users\valer\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecti1200.tfm
+INPUT .\Images\.\raggiera_polimi.eps
+INPUT .\Images\.\raggiera_polimi.eps
+INPUT .\Images\.\raggiera_polimi.eps
+INPUT .\Images\.\raggiera_polimi.eps
+INPUT .\Images\.\raggiera_polimi-eps-converted-to.pdf
+INPUT .\Images\.\raggiera_polimi-eps-converted-to.pdf
+INPUT .\Images\.\raggiera_polimi.eps
+INPUT .\Images\.\raggiera_polimi-eps-converted-to.pdf
+INPUT .\Images\.\raggiera_polimi-eps-converted-to.pdf
 INPUT C:\Users\valer\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1728.tfm
 INPUT C:\Users\valer\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx1200.tfm
 INPUT .\Images\.\raggiera_polimi.eps
@@ -597,8 +605,6 @@ INPUT .\Images\.\raggiera_polimi-eps-converted-to.pdf
 INPUT report.aux
 INPUT .\report.out
 INPUT .\report.out
-INPUT C:\Users\valer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1200.pk
-INPUT C:\Users\valer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1200.pk
 INPUT C:\Users\valer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk
 INPUT C:\Users\valer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk
 INPUT C:\Users\valer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi720\ecbx1200.pk
